@@ -1,0 +1,8 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+.btn-color{background-color: #0e1c36; color: #fff;}
+.profile-image-pic{height: 200px;width: 200px;object-fit: cover;margin: 10px;}
+.cardbody-color{background-color: #ebf2fa;}
+a{text-decoration: none;}
+.container{text-align: center;}
+div{margin: 10px;}
+form{padding-bottom: 10px;}
